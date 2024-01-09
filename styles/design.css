@@ -67,8 +67,10 @@ align-items: center;
     
     width:700px;height: 600px;
     text-align: center;
-    margin-left: 400px;
-    margin-right: 400px;
+   
+    justify-content: center;
+    margin-left:300px;
+    margin-right:400px;
    
 
 }
@@ -92,9 +94,11 @@ align-items: center;
 
 }
  
-.banner.pic{
+  #banner-profile{
     width: 600px;  
     height: 500px;
+    margin: 48px 400px 140px 100px;
+
     
 
 }
@@ -103,7 +107,11 @@ align-items: center;
     height: 600px;
     text-align: center;
     margin: 120px 140px 120px 140px;
-    background:url('../images/banner/Vectorrr.png') 
+    background:url('../images/banner/Vectorrr.png')
+    
+     
+    
+    
    
      
 
@@ -112,18 +120,44 @@ align-items: center;
  color: white;
 
  padding: 126px 552px 298px 126px ;
+ font-size: xx-large;
 
 
 
 }
-.wel-description{color: white;
+.wel-description {color: white;
+ padding-left: 120px;
+ padding-right: 120px;
+ text-align: center;
+
+
+}
+.Portfolio{
+    width:1000px;height: 600px;
+    text-align:left;
+    margin:140px;
    
-  
-
-
+    
 }
 
+ .gift{
+    color: darkmagenta;
+ }  
+ 
+ 
+ .description{
+    font-size: 15px;
+ }
+ 
+ .porttfolio-pic{
+  display: flex;
+ 
 
-     
+ }
 
-  
+ .porttfolio-img{
+    display: flex;
+}
+ 
+
+ 
