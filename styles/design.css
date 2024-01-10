@@ -151,13 +151,32 @@ align-items: center;
  
  .porttfolio-pic{
   display: flex;
+  padding-right: 100px;
  
 
  }
 
  .porttfolio-img{
     display: flex;
+    padding-right: 100px;
 }
  
-
+.one-img{
+width: 424px ;height:350px;
+}
+.two-img{
+ width: 424px; height:350px;
+}
+.three-img{
+    width: 424px; height:350px;
+}
+.forth-img{
+width: 424px;height: 350px;
+}
+.five-img{
+    width: 424px;height: 350px;
+}
+.six-img{
+width: 424px;height: 350px;
+}
  
