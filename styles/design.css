@@ -228,6 +228,57 @@ width: 500px;height: 72px;
 }
 .form-info{
     padding-top:40px;
+
 }
-   
+  
  
+.footer-info{
+
+width:1300px;height:500px;
+background-color:black;
+
+}
+
+
+.social-info{
+
+display: flex;
+justify-content: center;
+align-items: center;
+padding-top: 120px;
+
+
+
+}
+
+.addres{
+    text-align:left;
+
+    padding-top:70px;
+
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+   
+}
+
+.data-title{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal; 
+}
+
+.un-info{
+    padding-left:1000px;
+    color: #FFF;
+font-family: Inter;
+
+   
+}
