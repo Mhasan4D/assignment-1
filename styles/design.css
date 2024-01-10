@@ -129,6 +129,8 @@ align-items: center;
  padding-left: 120px;
  padding-right: 120px;
  text-align: center;
+ 
+ 
 
 
 }
@@ -224,6 +226,7 @@ width: 500px;height: 72px;
     background-color: red;
     
     
+    
 
 }
 .form-info{
@@ -235,7 +238,7 @@ width: 500px;height: 72px;
 .footer-info{
 
 width:1300px;height:500px;
-background-color:black;
+background-color: #070211;
 
 }
 
