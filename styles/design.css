@@ -136,10 +136,22 @@ align-items: center;
     width:1000px;height: 600px;
     text-align:left;
     margin:140px;
+    padding-bottom:260px
    
     
 }
 
+
+
+
+
+.about-gift{
+
+padding-bottom:50px;
+
+
+
+}
  .gift{
     color: darkmagenta;
  }  
@@ -151,7 +163,10 @@ align-items: center;
  
  .porttfolio-pic{
   display: flex;
-  padding-right: 100px;
+  padding-bottom: 50px;
+
+ 
+ 
  
 
  }
@@ -159,10 +174,12 @@ align-items: center;
  .porttfolio-img{
     display: flex;
     padding-right: 100px;
+    margin-bottom: 200px;
 }
  
 .one-img{
 width: 424px ;height:350px;
+
 }
 .two-img{
  width: 424px; height:350px;
@@ -178,5 +195,18 @@ width: 424px;height: 350px;
 }
 .six-img{
 width: 424px;height: 350px;
+
 }
  
+.about-news{
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1020px;height: 500px;
+
+    margin:120px 140px;
+    padding-top:250px;
+    text-align: center;
+
+
+
+}
